@@ -30,7 +30,7 @@ And install the dependencies using npm :
 npm install
 ```
 
-Or Yarn :
+Or yarn :
 
 ```
 yarn install
@@ -63,7 +63,13 @@ body
 
 Your **Stylus** (which can be pure CSS) content goes into the `/src/index.styl` file.
 
-Once you are done building, simply run :
+Once you are done building, simply run (from the directory) :
+
+```
+npm run build
+```
+
+Or using yarn :
 
 ```
 yarn build

@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"license": "MIT",
 	"author": "Martin PARENT <mparent@adon-immo.com> (https://adon-immo.com)",
-	"description": "A simple minified and inlined HTML email builder from pug template and stylus sheet.",
+	"description": "A simple minified and inlined HTML email builder from pug template and stylus sheet.git commit ",
 	"keywords": [
 		"simple",
 		"email",

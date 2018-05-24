@@ -1,0 +1,4 @@
+.idea/
+src/foundation-emails.css
+src/index.css
+!dist/.gitkeep
